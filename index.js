@@ -20,7 +20,7 @@ const planets = [{
     source: 'The Hitchhiker\'s Guide to the Galaxy book',
     year: 1979,
     author: ' Douglas Adams',
-    image: 'http://pages.erau.edu/~andrewsa/sci_fi_projects_fall_2015/Project_3/Roman_Edgar/roman--edgar-late_33870_4451952_EdgarRomanHitchhikersGuide-1/EdgarRomanHitchhikersGuide/Hitchhikers.jpg',
+    image: 'https://media.nature.com/w800/magazine-assets/d41586-019-02969-8/d41586-019-02969-8_17222542.jpg',
     description: 'Magrathea is an ancient planet located in orbit around the twin suns Soulianis and Rahm in the heart of the Horsehead Nebula. It was the Magratheans who constructed the planet-sized computer, Earth (for a race of hyperintelligent pan-dimensional beings, the mice and designed by Deep Thought), to determine the ultimate question of Life, the Universe, and Everything, which is required to understand the Answer to Life, the Universe, and Everything.'
 },
 {
